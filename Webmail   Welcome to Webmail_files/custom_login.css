@@ -1,0 +1,6 @@
+.ver2 div#login-form .modal { margin-top: 30px; }
+.ver2 div#login-form .modalheader { height: 100px; }
+.ver2 #loginform .input-group>.form-control { width: 100%; }
+/* ie blows */
+.ver2 div#login-form { top: 0px; }
+.ver2 div#login-form { background: #007dc3; }
